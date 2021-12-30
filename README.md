@@ -15,9 +15,9 @@ Our goal is to deliver four business solutions to address the needs of the compa
 
 ### Project Solutions
 
-Sentiment Analysis Model: Predicts the review sentiment as positive or negative 
-Genre Classifcation Model: Predicts the genre of the movie based on the synopsis 
-Review Classification Model: Predicts the movie genre of a particular review
+Sentiment Analysis Model: Predicts the review sentiment as positive or negative <br>
+Genre Classifcation Model: Predicts the genre of the movie based on the synopsis <br>
+Review Classification Model: Predicts the movie genre of a particular review <br>
 
 ### Data Sources: 
 
